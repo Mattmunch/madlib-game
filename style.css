@@ -1,0 +1,18 @@
+body {
+margin: 10px;
+background: orange;
+font-family: monospace;
+font-size: 2rem
+}
+#inputBoxes{
+color: darkgray;
+}
+#madlib{
+/* visibility: hidden; */
+}
+#titleMadlib {
+    /* visibility: hidden; */
+display: flex;
+justify-content: center;
+
+}
